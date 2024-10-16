@@ -1,10 +1,5 @@
-
-/*Enter your full name: Ashley Brodock*/
-
-
-
 import java.util.Scanner;
-
+/*Enter your full name: Ashley Brodock*/
 
 
 public class ShippingCost {
